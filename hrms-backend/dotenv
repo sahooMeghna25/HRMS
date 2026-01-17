@@ -1,3 +1,0 @@
-mongodb_url="mongodb://localhost:27017/test"
-JWT_SECRET=your_jwt_secret
-PORT=5000
